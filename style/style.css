@@ -141,6 +141,7 @@ h3 {
     height: 50px;
     border-radius: 25px;
     min-height: 150px;
+    resize: vertical;
     transition: .3s;
     text-indent: 50px;
     padding-top: 15px;
